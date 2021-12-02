@@ -2,6 +2,7 @@
 
 ![infinitee](https://user-images.githubusercontent.com/65995664/144512078-be0ac3d6-4833-4f71-9947-b653267340f2.gif)
 
+[PLAY DEMO](https://yeonghunko.github.io/infinite-scroll/)
 
 `https://jsonplaceholder.typicode.com/` 에서 dummy data를 받아와서 나름대로 만들어본 블로그 페이지.
 
