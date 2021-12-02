@@ -1,6 +1,6 @@
 # 간략 소개 👁‍🗨
 
-![infinite](https://user-images.githubusercontent.com/65995664/144510299-2dfde660-9ef0-4db8-82ea-9b57cb185398.gif)
+![infinite2](https://user-images.githubusercontent.com/65995664/144511235-709023cc-78fa-4826-89db-6b731e32d6d1.gif)
 
 
 `https://jsonplaceholder.typicode.com/` 에서 dummy data를 받아와서 나름대로 만들어본 블로그 페이지.
@@ -74,3 +74,5 @@ body {
 7. posts.render에서 addPosts인 경우 새로운 posts를 fetch해오는 대신 allPostsStorage를 posts에 넘겨주고 `querySelector('.post-container[data-id="${id}"]') === null` 처럼 `querySelector`를 이용해 `main`에 없는 posts만 render되도록 해보았다.
 
 8. scroll 이벤트도 posts 컴포넌트에서 관리할까 하다가 App에서 관리하도록 했다. 이유는, LIMIT,PAGE에 따라서 App.allPostsStorage 가 바뀌기 때문이다.
+
+9. 화면이 작은 곳에서 무한 스크롤 작동 안하길래, `totalHeight - 10` 해주니깐 작동함.
