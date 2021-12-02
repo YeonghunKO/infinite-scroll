@@ -1,6 +1,6 @@
 # 간략 소개 👁‍🗨
 
-![infinite2](https://user-images.githubusercontent.com/65995664/144511235-709023cc-78fa-4826-89db-6b731e32d6d1.gif)
+![infinitee](https://user-images.githubusercontent.com/65995664/144512078-be0ac3d6-4833-4f71-9947-b653267340f2.gif)
 
 
 `https://jsonplaceholder.typicode.com/` 에서 dummy data를 받아와서 나름대로 만들어본 블로그 페이지.
